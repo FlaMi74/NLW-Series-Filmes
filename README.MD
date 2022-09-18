@@ -6,7 +6,7 @@
 
 Projeto construído no evento do NLW eSports da RocketSeat.
 
-[🔗 Clique aqui para acessar](https://FlaMi74.github.io/NLW-eSports/)
+[🔗 Clique aqui para acessar](https://FlaMi74.github.io/NLW-Series-Filmes/)
 
 ## 🛠 Tecnologias 🛠
 
